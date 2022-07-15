@@ -20,7 +20,6 @@
 ![Profile views](https://gpvc.arturio.dev/J3y-Z3r0)  
 
 
- <a href="https://cybermap.kaspersky.com/"></a>
 
 
 
