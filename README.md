@@ -24,7 +24,7 @@
 
 
  
-<p align="center"><img src="https://telegra.ph/file/e7313415bc81cca0fc6c5.jpg" width="400"></p>
+<a href="https://github.com/J3y-Z3r0"><p align="center"><img src="https://telegra.ph/file/e7313415bc81cca0fc6c5.jpg" width="400"></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/j-d-ashinsa-85445b21a/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/jdashinsa"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
